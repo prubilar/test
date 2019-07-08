@@ -5,8 +5,6 @@
  * Date: 13-12-18
  * Time: 23:19
  */
-#pato
-claess
 class auto
 {
 
