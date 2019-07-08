@@ -1,4 +1,5 @@
 <?php
+###clase persona
 class Person {
     protected $firstName; // public, protected <-> private
     protected $lastName;
@@ -50,3 +51,4 @@ $person1->setNickname('Silence');
 $person1->setNickname('Sileence');
 exit($person1->getNickname());
 echo $person1->getFullName();
+
