@@ -1,7 +1,11 @@
 <?php
 ###clase persona
+<<<<<<< HEAD
 #clase persona2
 #
+=======
+#persona idiota
+>>>>>>> develtest
 class Person {
     protected $firstName; // public, protected <-> private
     protected $lastName;
