@@ -1,5 +1,7 @@
 <?php
 ###clase persona
+#clase persona2
+#
 class Person {
     protected $firstName; // public, protected <-> private
     protected $lastName;
