@@ -29,6 +29,27 @@ class auto
         return "toca la bocina";
   }
 }
+class auto2
+{
+
+    var $marca;
+    var $color;
+    var $puertas;
+
+    function __construct($marca,$color,$puertas)
+    {
+        $this->marca=$marca;
+        $this->color=$color;
+        $this->puertas=$puertas;
+    }
+
+    function acelerar(){
+        return "este auto esta acelerando";
+    }
+  function bocina(){
+        return "toca la bocina";
+  }
+}
 $auto1 = new auto('mazda','plateado',4);
 
 
