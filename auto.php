@@ -12,14 +12,14 @@ class auto
     var $marca;
     var $color;
     var $puertas;
-    var $vidrios;
+    var $vidrioss;
 
     function __construct($marca,$color,$puertas)
     {
         $this->marca=$marca;
         $this->color=$color;
         $this->puertas=$puertas;
-       $this->vidrios=$vidrios;
+       $this->vidrios=$vidrioss;
     }
 
     function acelerar(){
