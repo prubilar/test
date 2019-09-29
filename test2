@@ -1,0 +1,5 @@
+<?
+
+$a='hola'
+echo $a
+php?>
